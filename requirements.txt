@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 transformers
-torch   # CPU version is fine unless you want GPU speedup
-sqlite3
+torch
+pydantic
+python-multipart
