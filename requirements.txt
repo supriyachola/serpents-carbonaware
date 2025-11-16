@@ -4,3 +4,4 @@ transformers
 torch
 pydantic
 python-multipart
+sqlite3
